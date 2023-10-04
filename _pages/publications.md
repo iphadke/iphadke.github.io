@@ -4,8 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Economic Works
-======
+
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
@@ -17,6 +16,4 @@ Economic Works
   {% include archive-single.html %}
 {% endfor %}
 
-Other Works
-======
 
