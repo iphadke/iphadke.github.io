@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/ECON101_SUMMER2022
 venue: "UNC"
-#date: 2014-01-01
+date: Summer 2022
 #location: "City, Country"
 ---
 
