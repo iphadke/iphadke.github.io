@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/ECON445_SPRING2023
 venue: "UNC"
-date: "2023"
+#date: "2023"
 #location: "City, Country"
 ---
 
