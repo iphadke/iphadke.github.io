@@ -1,10 +1,10 @@
 ---
-title: "ECON 445 - Spring 2023"
+title: "ECON 445 - Spring"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/ECON445_SPRING2023
 venue: "UNC"
-#date: "2023"
+date: 2023-01-01
 #location: "City, Country"
 ---
 
