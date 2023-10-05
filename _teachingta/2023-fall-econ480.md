@@ -1,6 +1,6 @@
 ---
 title: "ECON 480 - Fall"
-collection: TA
+collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/ECON480_Fall2023
 venue: "UNC"
