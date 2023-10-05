@@ -6,9 +6,9 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+<!---
 {% include base_path %}
-
+--->
 Education
 ======
 * B.S. in Mathematics and Economics, The Pennsylvania State University, 2019
