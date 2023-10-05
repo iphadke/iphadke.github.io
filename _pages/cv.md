@@ -13,12 +13,12 @@ Education
 * M.S. in Economics, University of North Carolina - Chapel Hill, 2022
 * Ph.D in Economics, University of North Carolina - Chapel Hill, 2025 (expected)
 
-
+Work experience
+======
 <!--
 {% include base_path %}
 
-Work experience
-======
+
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues

@@ -6,7 +6,9 @@ author_profile: true
 ---
 Economic Works
 ======
-<!---
+Other Works
+======
+<!--
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -16,7 +18,6 @@ Economic Works
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
---->
-======
-Other Works
-======
+-->
+
+
