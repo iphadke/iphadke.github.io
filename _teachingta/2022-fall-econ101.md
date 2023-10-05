@@ -1,6 +1,6 @@
 ---
 title: "ECON 101 - Fall"
-collection: teaching
+collection: teachingta
 type: "Undergraduate Course"
 permalink: /teaching/ECON101_Fall2022
 venue: "UNC"
