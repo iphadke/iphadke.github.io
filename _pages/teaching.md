@@ -14,6 +14,6 @@ Courses (Instructor)
 
 Courses (TA)
 ======
-{% for post in site.teaching reversed %}
+{% for post in site.teachingta reversed %}
   {% include archive-single.html %}
 {% endfor %}
