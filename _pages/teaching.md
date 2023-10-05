@@ -1,13 +1,19 @@
 ---
 layout: archive
-title: "Teaching Courses"
+title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-Courses Taught
+Courses (Instructor)
 ======
  {% include base_path %}
 
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+Courses (TA)
+======
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
