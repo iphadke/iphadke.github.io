@@ -14,7 +14,7 @@ Education
 * B.S. in Mathematics and Economics, The Pennsylvania State University, 2019
 * M.S. in Economics, University of North Carolina - Chapel Hill, 2022
 * Ph.D in Economics, University of North Carolina - Chapel Hill, 2025 (expected)
-
+<!---
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -57,3 +57,4 @@ Teaching
 Service and leadership
 ======
 UNC GPSG Senator for Economics 2021-2023
+--->

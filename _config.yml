@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ishan Phadke - Personal Page"
+title                    : "Ishan Phadke - Personal Page (Under Construction)"
 title_separator          : "-"
 name                     : &name "Ishan Phadke"
 description              : &description "Economics Graduate Student interested in IO/Health"
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Ishan Phadke"
   avatar           : "profile.png"
-  bio              : "5th year Economics Graduate Student at UNC interested in IO/Health"
+  bio              : "5th year Economics Graduate Student interested in IO/Health"
   location         : "Chapel Hill, NC"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
