@@ -1,5 +1,5 @@
 ---
-title: "ECON 101 - Summer"
+title: "ECON 101 - Summer 2022"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/ECON101_SUMMER2022

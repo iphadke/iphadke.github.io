@@ -1,5 +1,5 @@
 ---
-title: "ECON 445 - Spring"
+title: "ECON 445 - Spring 2023"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/ECON445_SPRING2023
