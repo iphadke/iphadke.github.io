@@ -24,7 +24,8 @@ Service and leadership
 * UNC GPSG Senator for Economics 2021-2023
 
 CV Link Here
-<!--
+
+<!---
 {% include base_path %}
 
 
@@ -68,4 +69,4 @@ Teaching
 Service and leadership
 ======
 UNC GPSG Senator for Economics 2021-2023
--->
+---!>
