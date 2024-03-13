@@ -27,24 +27,20 @@ Talks
 ======
 * Southern Economics Association 2023
 * ASHE 2024
-<!---
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
---->
+
 Teaching
 ======
+{% include base_path %}
+
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 
 
-<!---
+<!----
 {% include base_path %}
->
 
-<!---
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
@@ -85,4 +81,14 @@ Teaching
 Service and leadership
 ======
 UNC GPSG Senator for Economics 2021-2023
+
+Talks
+======
+* Southern Economics Association 2023
+* ASHE 2024
+<!---
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
 --->
+---->
