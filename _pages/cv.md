@@ -23,12 +23,12 @@ Service and leadership
 ======
 * UNC GPSG Senator for Economics 2021-2023
 
-CV Link Here
+
 
 <!---
 {% include base_path %}
-
-
+>
+<!---
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
@@ -69,4 +69,4 @@ Teaching
 Service and leadership
 ======
 UNC GPSG Senator for Economics 2021-2023
----!>
+>
