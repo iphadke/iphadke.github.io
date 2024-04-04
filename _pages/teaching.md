@@ -14,14 +14,14 @@ Courses (TA)
 
 Courses (Instructor)
 ======
-
+{% include base_path %}
 {% for post in site.teaching reversed %}
  
 {% endfor %}
 
 
  <!---
-  {% include base_path %}
+  
 
  {% include archive-single.html %}
   --->
