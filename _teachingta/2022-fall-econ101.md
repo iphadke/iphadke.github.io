@@ -2,7 +2,7 @@
 title: "ECON 101 - Fall"
 collection: teachingta
 type: "Undergraduate Course"
-permalink: /teaching/
+#permalink: /teaching/
 venue: "UNC"
 #date: 2022-08-01
 ---
