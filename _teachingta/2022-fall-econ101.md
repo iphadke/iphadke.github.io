@@ -1,12 +1,8 @@
 ---
 title: "ECON 101 - Fall"
 collection: teachingta
-type: "Undergraduate Course"
-#permalink: /teaching/
-venue: "UNC"
-date: 2022-08-01
+role: "Undergraduate Course"
 
-
-roles: Responsible for leading multiple recitations weekly, grading, office hours and class assisstance
+#roles: Responsible for leading multiple recitations weekly, grading, office hours and class assisstance
 ---
 
