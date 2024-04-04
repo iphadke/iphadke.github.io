@@ -18,6 +18,4 @@ Courses (TA)
  
 {% for post in site.teachingta reversed %}
   {{ post.title }}
-    {{ post.roles }}
-
 {% endfor %}
