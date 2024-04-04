@@ -17,7 +17,8 @@ Courses (TA)
  {% include base_path %}
  
 {% for post in site.teachingta reversed %}
-  {% include archive-single.html %}
+  <h2>{{ post.title }}</h2>
+    <h3>{{ post.role }}</h3>
 {% endfor %}
 
 
