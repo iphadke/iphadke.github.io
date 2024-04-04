@@ -16,7 +16,8 @@ Courses (TA)!!!
 ======
 <details>
 <summary>Course List (TA)</summary>
-
+<pre>
 Intro to Economics (Micro and Macro) x3, Labor Economics, Entrepreunership, Advanced Mircoeconomics, & Intro Econometrics
- </details>
+</pre>
+</details>
 <!--- Consider just doing a list - Intro to Economics (Micro and Macro), Labor Economics, Entrepreunership, Advanced Mircoeconomics, Intro Econometrics>
