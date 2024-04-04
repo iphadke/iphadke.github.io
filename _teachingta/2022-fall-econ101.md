@@ -10,14 +10,3 @@ date: 2022-08-01
 roles: Responsible for leading multiple recitations weekly, grading, office hours and class assisstance
 ---
 
-<!---
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
-
---->
