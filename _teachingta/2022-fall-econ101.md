@@ -4,7 +4,7 @@ collection: teachingta
 type: "Undergraduate Course"
 #permalink: /teaching/
 venue: "UNC"
-#date: 2022-08-01
+date: 2022-08-01
 
 
 roles: Responsible for leading multiple recitations weekly, grading, office hours and class assisstance
