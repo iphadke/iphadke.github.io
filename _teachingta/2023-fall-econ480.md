@@ -1,8 +1,8 @@
 ---
 title: "ECON 480 - Fall"
-collection: teaching
+collection: teachingta
 type: "Undergraduate course"
-permalink: /teaching/ECON480_Fall2023
+permalink: /teaching/
 venue: "UNC"
 date: 2023-09-01
 #location: "City, Country"
