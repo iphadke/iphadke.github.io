@@ -12,7 +12,7 @@ Courses (Instructor)
   {% include archive-single.html %}
 {% endfor %}
 
-Courses (TA)
+Courses (Teaching Assistant)
 ======
 
 * Intro to Economics (Micro and Macro)
