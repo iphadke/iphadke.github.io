@@ -12,9 +12,7 @@ Courses (Instructor)
   {% include archive-single.html %}
 {% endfor %}
 
-
-
-Courses (TA)
+Courses (TA)!!!
 ======
 <details>
 <summary>Course List (TA)</summary>
