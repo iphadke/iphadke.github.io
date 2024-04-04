@@ -12,12 +12,18 @@ Courses (Instructor)
   {% include archive-single.html %}
 {% endfor %}
 
-Courses (TA)!!!
+Courses (TA)
 ======
+
+* Intro to Economics (Micro and Macro)
+* Labor Economics
+* Entrepreneurship
+* Advanced Microeconomics
+* Intro Econometrics
 <details>
 <summary>Course List (TA)</summary>
 <pre>
-Intro to Economics (Micro and Macro) x3, Labor Economics, Entrepreunership, Advanced Mircoeconomics, & Intro Econometrics
+Intro to Economics , Labor Economics, Entrepreunership, Advanced Mircoeconomics, & Intro Econometrics
 </pre>
 </details>
 <!--- Consider just doing a list - Intro to Economics (Micro and Macro), Labor Economics, Entrepreunership, Advanced Mircoeconomics, Intro Econometrics>
