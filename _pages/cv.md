@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+[Download CV here](http://iphadke.github.io/files/CV_Phadke.pdf)
+
 Education
 ======
 * B.S. in Mathematics and Economics, The Pennsylvania State University, 2019
