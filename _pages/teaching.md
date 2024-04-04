@@ -17,6 +17,9 @@ Courses (Instructor)
  {% include base_path %}
 
 {% for post in site.teaching reversed %}
-  <!--{% include archive-single.html %}
-  -->
+ 
 {% endfor %}
+
+
+ <!---{% include archive-single.html %}
+  --->
