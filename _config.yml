@@ -188,8 +188,8 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  teachingta:
-    output: false
+  #teachingta:
+    #output: false
     #permalink: /:collection/:path/
 
 
