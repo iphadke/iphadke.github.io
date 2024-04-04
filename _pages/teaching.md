@@ -12,10 +12,12 @@ Courses (Instructor)
   {% include archive-single.html %}
 {% endfor %}
 
+
+
 Courses (TA)
 ======
-
+<details>
+<summary>Course List (TA)</summary>
+Intro to Economics (Micro and Macro) x3, Labor Economics, Entrepreunership, Advanced Mircoeconomics, & Intro Econometrics
  
-{% for post in site.teachingta reversed %}
-  {{ post.title }}
-{% endfor %}
+<!--- Consider just doing a list - Intro to Economics (Micro and Macro), Labor Economics, Entrepreunership, Advanced Mircoeconomics, Intro Econometrics>
