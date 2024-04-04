@@ -18,6 +18,6 @@ Courses (TA)
  
 {% for post in site.teachingta reversed %}
   <h2>{{ post.title }}</h2>
-    <h3>{{ post.role }}</h3>
+    <p>{{ post.roles }}</p>
 
 {% endfor %}
