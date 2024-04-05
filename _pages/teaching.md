@@ -1,18 +1,21 @@
 ---
 layout: archive
-title: ""
+title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-Courses (Instructor) -Test
+Courses (Instructor) 
 ======
   {% include base_path %}
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-
-
+* Intro to Economics (Micro and Macro)
+* Labor Economics
+* Entrepreneurship
+* Advanced Microeconomics
+* Intro Econometrics
 
 
 
