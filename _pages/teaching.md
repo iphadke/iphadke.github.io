@@ -4,7 +4,7 @@ title: ""
 permalink: /teaching/
 author_profile: true
 ---
-Courses (Instructor)
+Courses (Instructor) -Test
 ======
   {% include base_path %}
 {% for post in site.teaching reversed %}
