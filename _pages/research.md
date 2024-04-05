@@ -17,6 +17,7 @@ Working Papers
 
 </summary>
 
+</details>
 
 Works in Progress
 ======
