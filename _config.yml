@@ -188,9 +188,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  #teachingta:
-    #output: false
-    #permalink: /:collection/:path/
+
 
 
 # Defaults
