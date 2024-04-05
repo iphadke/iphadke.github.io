@@ -61,7 +61,7 @@ Works in Progress
 </summary>
 
 
-> Large sneaker firms like Nike and Adidas frequently release limited quantities of coveted "Hypebeast" shoes, which are extremely popular. These shoes sell out instantly online and are often listed on shoe auction sites for substantially higher prices. Fascinatingly, these shoes clear the auctions at those inflated prices. This paper considers a model that offers an explanation as to why firms don't either increase their quantity of the product or the price to capitalize on the high demand for the product. 
+<ul> Large sneaker firms like Nike and Adidas frequently release limited quantities of coveted "Hypebeast" shoes, which are extremely popular. These shoes sell out instantly online and are often listed on shoe auction sites for substantially higher prices. Fascinatingly, these shoes clear the auctions at those inflated prices. This paper considers a model that offers an explanation as to why firms don't either increase their quantity of the product or the price to capitalize on the high demand for the product. </ul>
   
   
 </details>
