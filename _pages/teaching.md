@@ -4,7 +4,6 @@ title: ""
 permalink: /teaching/
 author_profile: true
 ---
-
 Courses (Instructor)
 ======
   {% include base_path %}
@@ -12,14 +11,11 @@ Courses (Instructor)
   {% include archive-single.html %}
 {% endfor %}
 
-Courses (Teaching Assistant)
+
+Courses (Teaching Assistant)!!!!!!
 ======
 
-* Intro to Economics (Micro and Macro)
-* Labor Economics
-* Entrepreneurship
-* Advanced Microeconomics
-* Intro Econometrics
+
 
 <!--- Consider just doing a list - Intro to Economics (Micro and Macro), Labor Economics, Entrepreunership, Advanced Mircoeconomics, Intro Econometrics
 
@@ -28,4 +24,9 @@ Courses (Teaching Assistant)
 <pre>
 Intro to Economics , Labor Economics, Entrepreunership, Advanced Mircoeconomics, & Intro Econometrics
 </pre>
+* Intro to Economics (Micro and Macro)
+* Labor Economics
+* Entrepreneurship
+* Advanced Microeconomics
+* Intro Econometrics
 </details>>
