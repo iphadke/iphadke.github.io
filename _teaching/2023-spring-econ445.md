@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "ECON 445 - Spring 2023"
 collection: teaching
 type: "Undergraduate course"
