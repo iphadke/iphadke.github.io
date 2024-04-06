@@ -17,6 +17,9 @@ Research Interests
 * Regulating Innovation Incentives
 * Pharmaceutical Pricing and Rebate Contracts
 * Empirical Industrial Organization
+
+
+
 <!---
 #Outside of school, I love to play and learn new board games and keep up with the NBA, even though my #76ers find a new way to let me down each year. Feel free to contact me if you have any questions!
 >
