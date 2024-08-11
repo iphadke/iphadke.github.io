@@ -176,8 +176,6 @@
   position: relative;
   min-width: 250px;
   background: $background-color;
-  
-
 
   a {
     display: block;
@@ -204,9 +202,7 @@
   }
 
   .visible-links {
-    display: flex;
-    justify-content: center;
-    flex: 1;
+    display: table;
 
     li {
       display: table-cell;
