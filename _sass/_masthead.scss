@@ -4,12 +4,7 @@
 
 .masthead {
   position: relative;
-  display: flex; /* Use flexbox for centering */
-  justify-content: center; /* Center child elements horizontally */
-  align-items: center; /* Center child elements vertically if needed */
-  width: 100%; /* Full width to accommodate centering */
-  background: $background-color; /* Ensure background color is set */
-  padding: 1rem; /* Adjust padding as needed */
+  
   border-bottom: 1px solid $border-color;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
@@ -28,9 +23,6 @@
     }
 
     nav {
-      display: flex; /* Align navigation items in a row */
-      justify-content: center; /* Center navigation items horizontally */
-      width: auto; /* Auto width to fit content */
       z-index: 10;
     }
 
