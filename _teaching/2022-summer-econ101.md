@@ -8,7 +8,7 @@ venue: "UNC"
 date: 2022-06-01
 ---
 
-Lectures from my summer course for ECON 101 will be provided below. The summer course is only a 5 week course and covers principles of both microeconomics and macroeconomics.
+Course Description: Introduction to fundamental issues in economics including competition, scarcity, opportunity cost, resource allocation, unemployment, inflation, and the determination of prices. This summer course covered all content in a 5 week period. Lectures from my summer course for ECON 101 are available upon email request.
 
 <!---
 Heading 1

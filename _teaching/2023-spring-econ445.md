@@ -9,7 +9,7 @@ date: 2023-01-01
 #location: "City, Country"
 ---
 
-Lectures from my summer course for ECON 445 will be provided below. The course is an introduction to topics of industrial organization, covering topics related to price discrimination, different market competition and game theory/collusion.
+Course Description: The course covers the causes and consequences of firms' strategic behavior, focusing on situations in which firms have market power. The main analytical tools are microeconomic theory and game theory. Topics covered include: pricing, product design, imperfect competition, collusion and cartels, firm-to-firm supply relationships, mergers, and antitrust policy. Lectures for ECON 445 are available upon email request. 
 
 <!---
 Heading 1
