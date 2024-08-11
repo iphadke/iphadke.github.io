@@ -205,53 +205,33 @@
   }
 
   .visible-links {
-    display: flex; /* Ensure items are displayed in a row */
-    justify-content: center; /* Center links horizontally */
-    flex: 1;
+    display: flex; /* Use flexbox for layout */
+    justify-content: center; /* Center items horizontally */
+    align-items: center; /* Center items vertically if needed */
+    padding: 0;
+    margin: 0;
+
+    /* Remove list style for ul and adjust spacing */
+    ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      display: flex; /* Ensure ul uses flexbox for its children */
+    }
     
 
     li {
-      -webkit-box-flex: 0;
-      -ms-flex: none;
-      flex: none;
-
-      &:first-child {
-        font-weight: bold;
-
-        a {
-          margin-left: 0;
-        }
-      }
-
-      &:last-child {
-        a {
-          margin-right: 0;
-        }
-      }
+      margin: 0 1rem; /* Space between list items */
     }
 
     a {
-      position: relative;
-
-      &:before {
-        content: "";
-        position: absolute;
-        left: 0;
-        bottom: 0;
-        height: 4px;
-        background: mix(#fff, $primary-color, 50%);
-        width: 100%;
-        -webkit-transition: $global-transition;
-        transition: $global-transition;
-        -webkit-transform: scaleX(0);
-            -ms-transform: scaleX(0);
-                transform: scaleX(0); /* hide*/
-      }
-
-      &:hover:before {
-        -webkit-transform: scaleX(1);
-            -ms-transform: scaleX(1);
-                transform: scaleX(1); /* reveal*/
+      text-decoration: none;
+      color: $masthead-link-color;
+      padding: 0.5rem;
+      display: block;
+  
+      &:hover {
+        color: $masthead-link-color-hover;
       }
     }
   }
