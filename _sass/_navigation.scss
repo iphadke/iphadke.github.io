@@ -174,9 +174,10 @@
 
 .greedy-nav {
   position: relative;
-  min-width: 250px;
+ /* min-width: 250px;*/
   background: $background-color;
   text-align: center; /* Center-align the content within the container */
+  width: 100%; /* Ensure full width for centering */
 
   a {
     /*display: block;*/
@@ -205,10 +206,12 @@
 
   .visible-links {
     /*display: table;*/
-    display: inline-flex; /* Align items horizontally */
+    display: flex; /* Align list items in a row */
     justify-content: center; /* Center items horizontally */
-    padding: 0; /* Adjust padding as needed */
-    margin: 0;
+    padding: 0; /* Remove padding if necessary */
+    margin: 0 auto; /* Center the flex container */
+    list-style: none; /* Remove default list styling */
+    margin: 0; /* Remove margin to avoid misalignment */
 
     li {
       /*display: table-cell;*/
