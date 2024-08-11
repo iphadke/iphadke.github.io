@@ -202,7 +202,9 @@
   }
 
   .visible-links {
-    display: table;
+    display: flex;
+    justify-content: center;
+    flex: 1;
 
     li {
       display: table-cell;
