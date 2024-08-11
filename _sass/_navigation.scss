@@ -176,9 +176,11 @@
   position: relative;
   min-width: 250px;
   background: $background-color;
+  text-align: center; /* Center-align the content within the container */
 
   a {
-    display: block;
+    /*display: block;*/
+    display: inline-block;
     margin: 0 1rem;
     padding: 0.5rem 0;
     color: $masthead-link-color;
@@ -202,10 +204,15 @@
   }
 
   .visible-links {
-    display: table;
+    /*display: table;*/
+    display: inline-flex; /* Align items horizontally */
+    justify-content: center; /* Center items horizontally */
+    padding: 0; /* Adjust padding as needed */
+    margin: 0;
 
     li {
-      display: table-cell;
+      /*display: table-cell;*/
+      display: inline;
       vertical-align: middle;
 
       &:first-child {
@@ -317,7 +324,13 @@
   font-size: 1.25rem;
 
   ul {
-    margin-bottom: 1em;
+    /*margin-bottom: 1em;*/
+    margin: 0; /* Remove margin to avoid misalignment */
+    padding: 0;
+    list-style: none;
+    display: flex; /* Align items in a row */
+    justify-content: center; /* Center items horizontally */
+    flex-wrap: wrap; /* Allow items to wrap if necessary */
   }
 
   a {
