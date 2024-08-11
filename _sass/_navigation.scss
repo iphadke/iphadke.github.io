@@ -173,9 +173,12 @@
    ========================================================================== */
 
 .greedy-nav {
-  position: relative;
+  position: flex;
   min-width: 250px;
   background: $background-color;
+  justify-content: center;
+  flex: 1;
+  
 
   a {
     display: block;
