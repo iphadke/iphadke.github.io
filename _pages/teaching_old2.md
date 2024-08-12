@@ -1,13 +1,21 @@
 ---
 layout: archive
-title: "Teaching Experience"
-permalink: /teaching/
+#title: "Teaching Experience"
+#permalink: /teaching/
 author_profile: true
 sitemap: false
 ---
 
 <h1>Courses (Instructor) !</h1>
 
+<!--
+======
+  {% include base_path %}
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+-->
 
 <h2>ECON 101 - Summer 2022 & 2024 (UNC Undergraduate Course)</h2>
 
