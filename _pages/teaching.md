@@ -6,7 +6,7 @@ author_profile: true
 sitemap: false
 ---
 
-<h1>Courses (Instructor)</h1>
+<h1>Courses (Instructor)!</h1>
 
 
 <h2>ECON 101 - Summer 2022 & 2024 (UNC Undergraduate Course)</h2>
