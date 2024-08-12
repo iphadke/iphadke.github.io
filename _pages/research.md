@@ -17,7 +17,7 @@ author_profile: true
 </summary>
 
 </details>
-<p></p>
+<p style="margin-bottom: 1rem;"></p>
 <h1>Works in Progress</h1>
 <details>
 
