@@ -191,6 +191,7 @@
     .visible-links {
       display: flex; /* Use flexbox for the links */
       align-items: center;
+      flex:1;
   
       li {
         display: inline-flex;
