@@ -6,7 +6,7 @@ author_profile: true
 sitemap: false
 ---
 
-<h1>Courses (Instructor)!</h1>
+<h1>Courses (Instructor) !</h1>
 
 <!--
 ======
