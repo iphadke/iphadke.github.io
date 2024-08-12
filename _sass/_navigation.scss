@@ -195,7 +195,7 @@
         vertical-align: middle;
   
         &:first-child {
-          font-weight: bold;
+          font-weight: normal;
   
           a {
             margin-left: 0;
@@ -207,6 +207,10 @@
             margin-right: 0;
           }
         }
+      }
+      &.masthead__menu-item--lg {
+        font-weight: bold; /* Make site.title bold */
+        color: $masthead-link-color; /* Controls the text color of links */
       }
   
       a {
