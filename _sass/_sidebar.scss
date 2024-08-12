@@ -40,7 +40,8 @@
 
   p, li {
     font-family: $sans-serif;
-    font-size: $type-size-6;
+
+    font-size: .8rem; /*was $type-size-6*/
     line-height: 1.5;
   }
 
@@ -83,7 +84,7 @@
   }
 
   img {
-    max-width: 175px;
+    max-width: 165px;
     border-radius: 50%;
 
     @include breakpoint($large) {
@@ -123,7 +124,7 @@
 
 .author__bio {
   margin: 0;
-  font-size: 1.2rem;
+  font-size: 1rem;
 
 
   @include breakpoint($large) {
