@@ -27,4 +27,4 @@ Course Description: The course covers the causes and consequences of firms' stra
 * Advanced Microeconomics
 * Intro Econometrics
 
-<!-- - Selected student evaluations below - Full evaluations here: [Summer 2022](http://iphadke.github.io/files/ECON101_Summer2022_Main.pdf) & [Summer 2024](http://iphadke.github.io/files/ECON101_Summer2024.pdf).>
+<!-- - Selected student evaluations below - Full evaluations here: [Summer 2022](http://iphadke.github.io/files/ECON101_Summer2022_Main.pdf) & [Summer 2024](http://iphadke.github.io/files/ECON101_Summer2024.pdf).-->
