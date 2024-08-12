@@ -174,18 +174,8 @@
 
 .greedy-nav {
   position: relative;
-  display: flex;
   min-width: 250px;
   background: $background-color;
-  
-
-  /*position: relative;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;*/
 
   a {
     display: block;
@@ -213,8 +203,6 @@
 
   .visible-links {
     display: table;
-    justify-content: center;
-    
 
     li {
       display: table-cell;
