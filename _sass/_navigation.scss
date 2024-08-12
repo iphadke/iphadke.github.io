@@ -189,24 +189,18 @@
       margin-left: auto;
       margin-right: auto;
   
+      li:not(.masthead__menu-item--lg) {
+        font-weight: normal; /* Ensures all items except the one with the class are normal weight */
+      }
       li {
         display: inline-flex;
         margin: 0 0.5rem; /* Adjust spacing between links */
         vertical-align: middle;
   
-        &:first-child {
-          font-weight: normal;
-  
-          a {
-            margin-left: 0;
-          }
+        &:not(.masthead__menu-item--lg) {
+          font-weight: normal; /* Ensures all items except the one with the class are normal weight */
         }
-  
-        &:last-child {
-          a {
-            margin-right: 0;
-          }
-        }
+        
         &.masthead__menu-item--lg {
           font-weight: bold; /* Make site.title bold */
           color: $masthead-link-color; /* Controls the text color of links */
