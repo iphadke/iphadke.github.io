@@ -192,13 +192,10 @@
       
       li {
         display: inline-flex;
-        margin: 0 0.5rem; /* Adjust spacing between links */
+        margin: 0 1rem; /* Adjust spacing between links */
         vertical-align: middle;
   
-        &.site-title {
-          font-weight: bold; /* Make site.title bold */
-          color: $gray; /* Controls the text color of links */
-        }
+      
       }
       
   
@@ -221,7 +218,7 @@
         }
         &.site-title {
           font-weight: bold; /* Make site.title bold */
-          color: $gray; /* Controls the text color of links */
+          color: gray; /* Controls the text color of links */
         }
   
         &:hover:before {
