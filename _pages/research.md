@@ -6,8 +6,7 @@ author_profile: true
 
 ---
 
-Working Papers
-======
+<h1>Working Papers</h1>
 
 <details>
 
@@ -18,9 +17,8 @@ Working Papers
 </summary>
 
 </details>
-
-Works in Progress
-======
+<p></p>
+<h1>Works in Progress</h1>
 <details>
 
 <summary>
