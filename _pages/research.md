@@ -35,6 +35,7 @@ author_profile: true
 --->
 
 </details>
+<p style="margin-bottom: .5rem;"></p>
 
 <details>
 
@@ -49,6 +50,7 @@ author_profile: true
  
 
 </details>
+<p style="margin-bottom: .5rem;"></p>
 
 <details>
 
