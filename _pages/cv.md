@@ -5,6 +5,8 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+hide_title: true
+
 ---
 
 [CV (PDF)](http://iphadke.github.io/files/CV_Phadke_AcademicAug2024.pdf)

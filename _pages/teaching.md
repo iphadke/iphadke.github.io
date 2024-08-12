@@ -4,9 +4,11 @@ title: "Teaching Experience"
 permalink: /teaching/
 author_profile: true
 sitemap: false
----
+hide_title: true
 
-<h1 style="margin-top: 1.5rem;">Courses (Instructor)</h1>
+---
+<!--style="margin-top: 1.5rem;"-->
+<h1 >Courses (Instructor)</h1>
 
 
 <h2>ECON 101 - Summer 2022 & 2024 (UNC Undergraduate Course)</h2>
