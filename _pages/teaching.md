@@ -6,11 +6,10 @@ author_profile: true
 sitemap: false
 ---
 
-<h1 style="margin-top: 1rem;">Courses (Instructor)</h1>
+<h1 style="margin-top: 1.5rem;">Courses (Instructor)</h1>
 
 
 <h2>ECON 101 - Summer 2022 & 2024 (UNC Undergraduate Course)</h2>
-
 Course Description: Introduction to fundamental issues in economics including competition, scarcity, opportunity cost, resource allocation, unemployment, inflation, and the determination of prices. This summer course covered all content in a 5 week period of courses and recitations. Lectures from my summer course for ECON 101 are available upon email request. Selected student evaluations are provided below and the evaluations can be viewed here:
 [Summer 2022](http://iphadke.github.io/files/ECON101_Summer2022_Main.pdf) & [Summer 2024](http://iphadke.github.io/files/ECON101_Summer2024.pdf).
 
