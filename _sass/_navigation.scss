@@ -181,14 +181,7 @@
     background: $background-color;
     padding: 0 1rem; /* Optional: Add padding if needed */
   
-    /* Ensure the nav title and links are properly aligned */
-    .nav-title {
-      position: absolute; /* Ensure title is not affected by flexbox centering */
-      left: 0; /* Align to the left */
-      margin-right: 2rem; /* Space between title and links */
-      font-size: 1.5rem; /* Adjust as needed */
-      font-weight: bold;
-    }
+   
   
     .visible-links {
       display: flex; /* Use flexbox for the links */
