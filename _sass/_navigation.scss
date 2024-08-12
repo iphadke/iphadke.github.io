@@ -219,6 +219,10 @@
           transform: scaleX(0); /* Hide initially */
           transition: transform 0.3s; /* Transition effect */
         }
+        &.site-title {
+          font-weight: bold; /* Make site.title bold */
+          color: $gray; /* Controls the text color of links */
+        }
   
         &:hover:before {
           transform: scaleX(1); /* Show on hover */
