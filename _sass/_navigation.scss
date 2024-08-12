@@ -215,6 +215,8 @@
       a {
         position: relative;
         padding: 0.5rem 1rem; /* Adjust padding for clickable area */
+        color: $masthead-link-color; /* Controls the text color of links */
+
   
         &:before {
           content: "";
