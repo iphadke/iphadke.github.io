@@ -194,10 +194,10 @@
         display: inline-flex;
         margin: 0 1rem; /* Adjust spacing between links */
         vertical-align: middle;
-        
+
         &.site-title a {
           font-weight: bold; /* Ensure title is bold */
-          color: $primary-color; /* Apply primary color */
+          color: $masthead-link-color !important; /* Apply primary color */
         }
       
       }
