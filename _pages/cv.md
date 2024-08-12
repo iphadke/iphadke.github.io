@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[CV (PDF)](http://iphadke.github.io/files/CV_Phadke.pdf)
+[CV (PDF)](http://iphadke.github.io/files/CV_Phadke_AcademicAug2024.pdf)
 
 Education
 ======
