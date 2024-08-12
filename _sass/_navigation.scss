@@ -174,14 +174,16 @@
 
    .greedy-nav {
     display: flex;
-    justify-content: center; /* Centers items horizontally */
+    justify-content: flex-start; /* Centers items horizontally  - do center to center this*/
     align-items: center; /* Centers items vertically */
     position: relative;
     min-width: 250px;
     background: $background-color;
     padding: 0 1rem; /* Optional: Add padding if needed */
   
-   
+    a.site-title {
+      margin-inline-start: 0;
+  }
   
     .visible-links {
       display: flex; /* Use flexbox for the links */
