@@ -174,7 +174,7 @@
 
    .greedy-nav {
     display: flex;
-    justify-content: flex-start; /* Centers items horizontally  - do center to center this*/
+    justify-content: center; /* Centers items horizontally  - do center to center this*/
     align-items: center; /* Centers items vertically */
     position: relative;
     min-width: 250px;
