@@ -13,7 +13,7 @@ hide_title: true
 
 <h2>ECON 101 - Summer 2022 & 2024 (UNC Undergraduate Course)</h2>
 
-This summer course covers introductory topics in microeconomics and macroecoomics in a 5 week period of courses and recitations. Students are taught about different markets, supply and demand, as well as fiscal and monetary policy. Lectures from my summer course for ECON 101 are available upon email request. Course evaluations can be viewed here:
+This summer course covers introductory topics in microeconomics and macroecoomics in a 5 week period between courses and recitations. Students are taught about different markets, supply and demand, as well as fiscal and monetary policy. Lectures from my summer course for ECON 101 are available upon email request. Course evaluations can be viewed here:
 [Summer 2022](http://iphadke.github.io/files/ECON101_Summer2022_Main.pdf) & [Summer 2024](http://iphadke.github.io/files/ECON101_Summer2024.pdf)
 
 <details>
