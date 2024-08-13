@@ -39,7 +39,7 @@ This course serves as an introduction to topics in industrial organization. Stud
 
 
 
-<h1>Courses (Teaching Assistant)</h1>
+<h1 style="margin-top: 1.5rem;">Courses (Teaching Assistant)</h1>
 
 * Intro to Economics (Micro and Macro)
 * Labor Economics
