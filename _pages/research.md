@@ -13,10 +13,9 @@ hide_title: true
 
 <summary>
 
-<b>Rewarding Incremental Innovation: Evaluating Pharmaceutical Line Extensions ([Job Market Paper] (http://iphadke.github.io/files/Phadke_JMP.pdf))</b>
+<b>Rewarding Incremental Innovation: Evaluating Pharmaceutical Line Extensions <a href="http://iphadke.github.io/files/Phadke_JMP.pdf" target="_blank">(Job Market Paper)</a>.</p></b>
 
 </summary>
-
 <ul>The FDA grants three years of exclusivity for line extensions of patented drugs upon launch, which may incentivize manufacturers to delay launches. I develop and solve a dynamic supply-side model to analyze the manufacturer's optimal pricing and launch strategies, incorporating a history-dependent demand system that reflects patients' tendencies to repeat drug choices. I then evaluate alternative policies that decouple exclusivity from launch timing to examine the welfare implications of the manufacturer's strategic responses. For the case of Namenda, offering no line extension exclusivity can enhance consumer welfare, despite increasing the risk of non-development. In contrast, granting full exclusivity after the original product expires mitigates this risk but has a negligible effect on consumer welfare while significantly raising expected drug expenditures. Simulations indicate that line extensions with minor quality improvements are particularly vulnerable under a no exclusivity policy, which limits consumer welfare losses if these extensions are not developed.</ul>
 </details>
 <p style="margin-bottom: .5rem;"></p>
