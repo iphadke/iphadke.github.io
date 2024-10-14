@@ -13,7 +13,7 @@ hide_title: true
 
 <summary>
 
-<b>Rewarding Incremental Innovation: Evaluating Pharmaceutical Line Extensions (JMP)</b>
+<b>Rewarding Incremental Innovation: Evaluating Pharmaceutical Line Extensions ([Job Market Paper] (http://iphadke.github.io/files/Phadke_JMP.pdf))</b>
 
 </summary>
 
