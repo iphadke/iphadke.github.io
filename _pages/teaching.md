@@ -13,8 +13,7 @@ hide_title: true
 
 <h2>ECON 101 - Summer 2022 & 2024 (UNC Undergraduate Course)</h2>
 
-This summer course covers introductory topics in microeconomics and macroecoomics in a 5 week period between courses and recitations. Students are taught about different markets, supply and demand, as well as fiscal and monetary policy. Lectures from my summer course for ECON 101 are available upon email request. Course evaluations can be viewed here:
-[Summer 2022](http://iphadke.github.io/files/ECON101_Summer2022_Main.pdf) & [Summer 2024](http://iphadke.github.io/files/ECON101_Summer2024.pdf)
+This summer course covers introductory topics in microeconomics and macroecoomics in a 5 week period between courses and recitations. Students are taught about different markets, supply and demand, as well as fiscal and monetary policy. Lectures from my summer course for ECON 101 are available upon email request. Course evaluations and my syllabi can be viewed here - Course Evaluations: [Summer 2022](http://iphadke.github.io/files/ECON101_Summer2022_Main.pdf) & [Summer 2024](http://iphadke.github.io/files/ECON101_Summer2024.pdf) & Syllabi: [Summer 2022](http://iphadke.github.io/files/ECON101_SS2_Syllabus_Phadke.pdf) & [Summer 2024](http://iphadke.github.io/files/ECON101_SS1_Syllabus_Phadke_2024.pdf) 
 
 <details>
 <summary>
@@ -27,7 +26,7 @@ Introduction to fundamental issues in economics including competition, scarcity,
 
 <h2>ECON 445 - Spring 2023 (UNC Undergraduate Course)</h2>
 
-This course serves as an introduction to topics in industrial organization. Students are introduced to concepts ranging from price discrimination, product differentiation, repeated games and mergers. Lectures from my ECON 445 course are available upon email request. Course evaluations can be viewed here: [Spring 2023](http://iphadke.github.io/files/Econ445_Main.pdf).
+This course serves as an introduction to topics in industrial organization. Students are introduced to concepts ranging from price discrimination, product differentiation, repeated games and mergers. Lectures from my ECON 445 course are available upon email request. Course evaluations and my syllabus can be viewed here - Course Evaluations: [Spring 2023](http://iphadke.github.io/files/Econ445_Main.pdf) & Syllabus: [Spring 2023](http://iphadke.github.io/files/ECON445_Syllabus_Phadke.pdf).
 
 <details>
 <summary>
