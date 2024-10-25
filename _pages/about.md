@@ -9,12 +9,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an Economics PhD Candidate at University of North Carolina - Chapel Hill. My research interests are in Empirical Industrial Organization and Health Economics. My current work focuses the supply side of pharmaceuticals, with focuses on regulation, innovation incentives and drug pricing. I will be on the job market in the 2024-2025 academic year. [CV](http://iphadke.github.io/files/CV_Phadke_Oct2024.pdf)
+I am an Economics PhD Candidate at University of North Carolina - Chapel Hill. My research interests are in Empirical Industrial Organization and Health Economics. My current work focuses the supply side of pharmaceuticals, with focuses on regulation, innovation incentives and drug pricing. I will be on the job market in the 2024-2025 academic year. [CV](http://iphadke.github.io/files/Phadke_CV.pdf)
 
 
 Research Interests
 ====
-* Empirical Industrial Organization
+* Industrial Organization
+* Applied Econometrics
 * Health Economics
 * Pharmaceutical Pricing and Rebate Contracts
 * Regulation and Innovation Incentives
