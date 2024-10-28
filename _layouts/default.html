@@ -14,6 +14,11 @@ layout: compress
       window.location.replace("https://iphadke.github.io" + window.location.pathname + window.location.search);
     }
   </script>
+  <script type="text/javascript">
+    if (window.location.host === "https://www.iphadke.github.io") {
+      window.location.replace("https://iphadke.github.io" + window.location.pathname + window.location.search);
+    }
+  </script>
 
   <!-- Meta redirect as a fallback for browsers where JavaScript might be disabled -->
   <meta http-equiv="refresh" content="0; url=https://iphadke.github.io">
