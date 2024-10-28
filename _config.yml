@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ishan Phadke"
 title_separator          : "-"
 name                     : &name "Ishan Phadke"
-description              : &description "UNC Economics PhD Candidate"
+description              : &description "UNC Economics PhD Candidate. Ishan Phadke, Ishan Phadke Economics, Ishan Phadke UNC, Ishan Phadke UNC Economics, Ishan Phadke Economics UNC"
 url                      : https://iphadke.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -66,10 +66,11 @@ yandex_site_verification :
 #og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
-#social:
-#  type                   : # Person or Organization (defaults to Person)
-#  name                   : # If the user or organization name differs from the site's name
-#  links: # An array of links to social media profiles
+social:  
+  type: Person  
+  name: Ishan Phadke  
+  links: "https://www.linkedin.com/in/ishan-phadke-b754a716b/"
+
 
 
 # Analytics
@@ -88,7 +89,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +104,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/ishan-phadke-b754a716b/""
   #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :

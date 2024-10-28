@@ -8,6 +8,8 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+meta:
+  keywords: "Ishan Phadke, Ishan Phadke Economics, Ishan Phadke UNC, Ishan Phadke UNC Economics, Ishan Phadke Economics UNC"
 ---
 I am an Economics PhD Candidate at University of North Carolina - Chapel Hill. My research interests are in Empirical Industrial Organization and Health Economics. My current work focuses the supply side of pharmaceuticals, with focuses on regulation, innovation incentives and drug pricing. I will be on the job market in the 2024-2025 academic year. [CV](http://iphadke.github.io/files/Phadke_CV.pdf)
 
