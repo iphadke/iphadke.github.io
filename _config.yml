@@ -69,7 +69,9 @@ yandex_site_verification :
 social:  
   type: Person  
   name: Ishan Phadke  
-  links: "https://www.linkedin.com/in/ishan-phadke-b754a716b/"
+  links: 
+    - name: "LinkedIn"
+      url: "https://www.linkedin.com/in/ishan-phadke-b754a716b/"
 
 
 
@@ -89,7 +91,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : 
+  email            : "iphadke@live.unc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
