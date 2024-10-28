@@ -8,11 +8,15 @@ layout: compress
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
   <head>
 
-    <script type="text/javascript">
-      if (window.location.host === "www.iphadke.github.io") {
-        window.location.replace("https://iphadke.github.io" + window.location.pathname);
-      }
-    </script>
+    <!-- JavaScript redirect for www to non-www -->
+  <script type="text/javascript">
+    if (window.location.host === "www.iphadke.github.io") {
+      window.location.replace("https://iphadke.github.io" + window.location.pathname + window.location.search);
+    }
+  </script>
+
+  <!-- Meta redirect as a fallback for browsers where JavaScript might be disabled -->
+  <meta http-equiv="refresh" content="0; url=https://iphadke.github.io">
     {% include head.html %}
     {% include head/custom.html %}
     <!-- Favicon for all browsers -->
