@@ -9,13 +9,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<!---
 <script type="text/javascript">
   // Redirect www.iphadke.github.io to iphadke.github.io
   if (window.location.hostname === "www.iphadke.github.io") {
     window.location.replace("https://iphadke.github.io" + window.location.pathname + window.location.search);
   }
 </script>
+--->
 
 I am an Economics PhD Candidate at University of North Carolina - Chapel Hill. My research interests are in Empirical Industrial Organization and Health Economics. My current work focuses the supply side of pharmaceuticals, with focuses on regulation, innovation incentives and drug pricing. I will be on the job market in the 2024-2025 academic year. [CV](http://iphadke.github.io/files/Phadke_CV.pdf)
 
