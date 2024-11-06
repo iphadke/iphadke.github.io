@@ -25,6 +25,18 @@
   &:hover {
     background-color: mix(white, #000, 20%);
   }
+  // Custom Tar Heel button style
+  &--tarheel {
+    background-color: #57A0D3;  // UNC light blue
+    color: #ffffff;
+    text-decoration: none;
+    margin-right: 10px;  // Adds space to the right of each button
+    transition: background-color 0.3s ease;
+
+    &:hover {
+      background-color: #4691c9;  // Slightly darker shade for hover
+    }
+  }
 
   .icon {
     margin-right: 0.5em;
