@@ -7,7 +7,7 @@ author_profile: true
 
 ---
 
-My research agenda is more broadly described in my research statement [here](http://iphadke.github.io/files/StatementofResearch.pdf), but I highlight my current research below.
+My research agenda is more broadly described in my research statement [here](http://iphadke.github.io/files/Phadke_StatementofResearch.pdf), but I highlight my current research below.
 
 <h1>Working Papers</h1>
 
