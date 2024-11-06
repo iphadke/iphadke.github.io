@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-#permalink: /cv/
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,8 +9,9 @@ hide_title: true
 
 ---
 
-[CV (PDF)](http://iphadke.github.io/files/CV_Phadke_AcademicAug2024.pdf)
+The latest version of my CV can be found here [CV](http://iphadke.github.io/files/Phadke_CV.pdf).
 
+<!---
 Education
 ======
 * B.S. in Mathematics and Economics, The Pennsylvania State University, 2019
@@ -40,7 +41,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-
+--->
 
 <!----
 {% include base_path %}
