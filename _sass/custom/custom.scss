@@ -3,7 +3,7 @@
 /*.site-nav {
     background-color: #59c5fc  // Replace with your desired color code
   }*/
-
+/*
   .button {
     display: inline-block;
     padding: 10px 20px;
@@ -17,4 +17,13 @@
 
 .button:hover {
     background-color: #0056b3;
+}
+*/
+
+/* Centering buttons */
+.button-container {
+  display: flex;
+  justify-content: center;  /* Center the buttons horizontally */
+  gap: 10px;  /* Adds space between the buttons */
+  margin-top: 20px;  /* Optional: Adds space between the paragraph and the buttons */
 }
