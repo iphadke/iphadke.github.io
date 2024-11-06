@@ -14,8 +14,8 @@ meta:
 I am an Economics PhD Candidate at University of North Carolina - Chapel Hill. My research interests are in Empirical Industrial Organization and Health Economics. My current work focuses the supply side of pharmaceuticals, with focuses on regulation, innovation incentives and drug pricing. I will be on the job market in the 2024-2025 academic year. 
 
 <div class="button-container">
- <a href="http://iphadke.github.io/files/Phadke_CV.pdf" class="btn">CV</a><a href="http://iphadke.github.io/files/Phadke_JMP.pdf" class="btn btn--tarheel">Job Market Paper</a><</div>
- 
+ <a href="http://iphadke.github.io/files/Phadke_CV.pdf" class="btn">CV</a><a href="http://iphadke.github.io/files/Phadke_JMP.pdf" class="btn btn--tarheel">Job Market Paper</a></div>
+
 
 
 
