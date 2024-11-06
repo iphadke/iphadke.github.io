@@ -10,6 +10,8 @@ hide_title: true
 <!--style="margin-top: 1.5rem;"-->
 <h1 >Courses (Instructor)</h1>
 
+I have extensive teaching experience at the introductory and intermediate level. My teaching philosophy can viewed [here](http://iphadke.github.io/files/TeachingPhilosophy.pdf) and I highlight the courses I have taught below, alongside course syllabi and student evaluations. A summary of my teaching effectiveness can be viewed [here](http://iphadke.github.io/files/TeachingEffectiveness.pdf)
+
 
 <h2>ECON 101 (Introduction to Economics) - Summer 2022 & 2024 (UNC Undergraduate Course)</h2>
 
