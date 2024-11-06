@@ -15,7 +15,7 @@ I am an Economics PhD Candidate at University of North Carolina - Chapel Hill. M
 
 
 
-<a href="http://iphadke.github.io/files/Phadke_CV.pdf" class="btn btn--tarheel">CV</a>
+<a href="http://iphadke.github.io/files/Phadke_CV.pdf" class="btn--tarheel">CV</a>
 <!---
 <a href="http://iphadke.github.io/files/Phadke_JMP.pdf" class="btn btn--tarheel">Job Market Paper</a>
 --->
