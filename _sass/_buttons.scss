@@ -58,7 +58,7 @@
 
   &:hover {
       background-color: #4691c9;  // Darker blue on hover
-      text-decoration: none;  // Ensure no underline on hover
+      text-decoration: none !important;  // Ensure no underline on hover
   }
 
   .icon {
@@ -185,4 +185,14 @@
   &--small {
     font-size: $type-size-7;
   }
+}
+
+/* Override page content links to prevent underlining */
+.page__content a {
+  text-decoration: underline;  // Keeps regular links underlined
+}
+
+/* But ensure buttons aren't underlined by targeting .btn */
+.page__content a.btn {
+  text-decoration: none !important;  // Remove underline from buttons
 }
