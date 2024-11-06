@@ -197,3 +197,11 @@
 .page__content a.btn {
   text-decoration: none !important;  // Remove underline from buttons
 }
+
+/* Custom Button Container */
+.button-container {
+  display: flex;
+  justify-content: center; /* Centers the buttons horizontally */
+  gap: 20px; /* Adds space between buttons */
+  margin-top: 20px; /* Adds space from the content above */
+}
