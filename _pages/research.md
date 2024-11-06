@@ -7,6 +7,8 @@ hide_title: true
 
 ---
 
+My research agenda is more broadly described in my research statement [here](), but I highlight my ongoing research below.
+
 <h1>Working Papers</h1>
 
 <details>
