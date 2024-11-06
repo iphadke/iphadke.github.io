@@ -200,8 +200,7 @@
 
 /* Custom Button Container */
 .button-container {
-  display: flex;
-  justify-content: center; /* Centers the buttons horizontally */
-  gap: 20px; /* Adds space between buttons */
-  margin-top: 20px; /* Adds space from the content above */
+  display: grid;
+  place-items: center; /* Centers both horizontally and vertically */
+
 }
