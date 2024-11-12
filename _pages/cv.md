@@ -1,17 +1,19 @@
 ---
-layout: archive
+layout: single
 title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
-hide_title: true
+  - /CV/
+redirect_to: files/Phadke_CV.pdf
+#hide_title: true
 
 ---
-
+<!---
 The latest version of my CV can be found here [CV](http://iphadke.github.io/files/Phadke_CV.pdf).
 
-<!---
+
 Education
 ======
 * B.S. in Mathematics and Economics, The Pennsylvania State University, 2019
