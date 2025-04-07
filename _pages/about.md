@@ -11,7 +11,7 @@ redirect_from:
 meta:
   keywords: "Ishan Phadke, Ishan Phadke Economics, Ishan Phadke UNC, Ishan Phadke UNC Economics, Ishan Phadke Economics UNC, ishan phadke unc, ishan unc, phadke unc, unc ishan phadke, UNC Ishan Phadke"
 ---
-I am an Economics PhD Candidate at the University of North Carolina - Chapel Hill. My research interests are in Empirical Industrial Organization and Health Economics. My current work focuses on the supply side of pharmaceuticals, with focuses on regulation, innovation incentives and drug pricing. I will be on the job market in the 2024-2025 academic year. 
+I am an Economics PhD Candidate at the University of North Carolina - Chapel Hill. My research interests are in Empirical Industrial Organization and Health Economics. My current work focuses on the supply side of pharmaceuticals, with focuses on regulation, innovation incentives and drug pricing. I was on the 2024-2025 job market and will be joining The Brattle Group in the summer of 2025.
 
 <div class="button-container">
  <a href="http://iphadke.github.io/files/Phadke_CV.pdf" class="btn">CV</a>  <a href="http://iphadke.github.io/files/Phadke_JMP.pdf" class="btn btn--tarheel">Job Market Paper</a>
